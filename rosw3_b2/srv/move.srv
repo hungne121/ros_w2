@@ -1,0 +1,5 @@
+# filepath: /home/hung/catkin_ws/src/rosw3_b2/srv/move.srv
+float32 x
+float32 y
+---
+bool success
